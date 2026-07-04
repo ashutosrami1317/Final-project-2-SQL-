@@ -139,7 +139,3 @@ UniversityDB/
 Created as a SQL Database Management System practice project for learning relational database concepts and SQL query writing.
 
 ---
-
-## 📄 License
-
-This project is intended for educational purposes.
